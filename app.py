@@ -52,7 +52,7 @@ passenger_count = st.number_input('number of passengers', value=1, format="%.0f"
 #🤔 How could we call our API ? Off course... The `requests` package 💡
 #'''
 
-#url = 'https://taxifare.lewagon.ai/predict' #
+url = 'https://taxifare.lewagon.ai/predict' #
 
 #if url == 'https://taxifare.lewagon.ai/predict':
 
